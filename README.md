@@ -6,6 +6,14 @@ This plugin makes it possible to get search results based on the distance betwee
 
 ## Requirements
 Version 3.0 or greater
+Google Maps plugin
+
+## Quick Start
+* Download the latest release [here](https://github.com/dienast/distance_search/archive/master.zip)
+* Clone the git repo — git clone https://github.com/sydcode/custom_attributes.git
+* Make sure you have installed the Google Maps plugin with a working v3 (see: http://forums.osclass.org/development/google-maps-api-deprecated/) 
+* Once you have installed the plugin you yourself should import the latitude and longitude values of all your cities in the columns 'd_coord_lat' and 'd_coord_long' of your osclass city table. You can use a batch converter (e.g. http://www.findlatitudeandlongitude.com/batch-geocode/) to generate the lat and long values. 
+
 
 ## Features
 * Drop down box with possible kilometer distances from where you can search for ads.
