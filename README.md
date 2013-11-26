@@ -5,8 +5,8 @@ A plugin for [Osclass](http://osclass.org), a free and open source classifieds s
 This plugin makes it possible to get search results based on the distance between cities.
 
 ## Requirements
-Version 3.0 or greater
-Google Maps plugin v3 (http://forums.osclass.org/development/google-maps-api-deprecated/)
+Version 3.0 or greater and
+Google Maps plugin v3 (see: http://forums.osclass.org/development/google-maps-api-deprecated/)
 
 ## Quick Start
 * Download the latest release [here](https://github.com/dienast/distance_search/archive/master.zip)
